@@ -23,6 +23,16 @@
 - Library used - Pandas, Numpy, Matplotlib, Seaborn
 
 ## Conclusions
+- Lending club should reduce the high interest loans for 60 months tenure, they are prone to loan default.
+- Lending club shouldn't give loan to those borrowers whose loan status is ‘Verified’ as they taken high amount of loan with 60 months tenure.
+- Borrower’s will be defaulted when they are having home ownership as ‘Rent’ and they take loan for the purpose of debt consolidation for Credit card payments.
+- Borrower’s whose annual income is low i.e. between 20k are more defaulted.
+- Lending club shouldn't give loans to thoses borrowers, who takes loan amount in the range 0 to 14000.
+- Borrower’s who receive interest at the rate of 15-20%, will be defaulted more.
+- Borrower who takes loan for the purpose of small business, Debt consolidation and cedit card payments are more defaults.
+- Grades are good metric for detecting defaulters. Lending club should examine more information from borrowers before issuing loans to Low grade (G to A).
+- Lending Club shouldn't provide loans to these states i.e. NV, AK, TN, SD, as most of the people are defaulted from these places only.
+- Those borrowers whom employment length is less than and equals to 1 are more prone to defulater, Lending club should aware of these while giving loans.
 
 
 ## Contributors
